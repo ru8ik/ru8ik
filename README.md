@@ -23,7 +23,7 @@ I enjoy being part of an evolving team and product, Let’s connect and exchange
 
     
 - <b>JavaScript</b>
-  - [Slack GoogleShooet ntegration](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Slack GoogleShooet ntegration](https://github.com/ru8ik/Slack_to_GoogleSheet)
     - About:
 
 
