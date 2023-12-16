@@ -14,10 +14,10 @@ I enjoy being part of an evolving team and product, Let’s connect and exchange
 
 
   
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Projects : </h2>
 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Facial recognition with [cv2, numpy, PIL, os] ](https://github.com/ru8ik/faciallRecognition)
 
     
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
