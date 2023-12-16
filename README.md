@@ -1,6 +1,6 @@
 <h1>Hi, I'm Rubik ! <br/><a href="https://github.com/ru8ik/ru8ik">Software Test Specialist</a> <a href="https://www.linkedin.com/in/ru8ik/">| QA enthusiast | Problem Solver</a>
 
-#### ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### ![](https://raw.githubusercontent.com/ru8ik/art/main/images.jpg?token=GHSAT0AAAAAACLVX4WRLQRDQIIEKFXNZUKQZL5ZXGQ)
 
 I combine innovation with best practice to diminish bugs and deliver results
 
