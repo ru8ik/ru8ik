@@ -1,4 +1,18 @@
 <h1>Hi, I'm Rubik ! <br/><a href="https://github.com/ru8ik/ru8ik">Software Test Specialist</a> <a href="https://www.linkedin.com/in/ru8ik/">| QA enthusiast | Problem Solver</a>
+
+#### ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I combine innovation with best practice to diminish bugs and deliver results
+
+Multilingual Software Test specialist (English, Russian, Hebrew... plus SQL, and NoSQL ... and some more)
+A gamer at heart and thumbs, I solve problems swiftly and collaboratively. 
+To me, a good day is one where I sit back and say, “I helped this thing move forward.”
+
+Always searching for all the ways and tools to deliver the most effective and precise solutions out there. 
+I enjoy being part of an evolving team and product, Let’s connect and exchange knowledge!
+
+
+
   
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -28,15 +42,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ru8ik/ru8ik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ru8ik//)  
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
