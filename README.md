@@ -1,5 +1,5 @@
-<h1>Hi, I'm Reuben but you can call me Rubik ! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Software Test Specialist | QA enthusiast | Ensuring Quality & Delivery Excellence | Solutions & detail oriented | Problem Solver</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
-
+<h1>Hi, I'm Rubik ! <br/><a href="https://github.com/ru8ik/ru8ik">Software Test Specialist</a> <a href="https://www.linkedin.com/in/ru8ik/">| QA enthusiast | Problem Solver</a>
+  
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
