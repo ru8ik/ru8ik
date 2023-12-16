@@ -18,25 +18,26 @@ I enjoy being part of an evolving team and product, Let’s connect and exchange
 
 - <b>Python</b>
   - [Facial recognition with [cv2, numpy, PIL, os] ](https://github.com/ru8ik/faciallRecognition)
+    - About:
+
 
     
 - <b>JavaScript</b>
   - [Slack GoogleShooet ntegration](https://github.com/joshmadakor1/Algorithms-Practice)
+    - About:
+
 
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+    - About:
 
-  
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
 
     
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+    - About:
 
 
 
