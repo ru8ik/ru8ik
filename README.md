@@ -4,7 +4,6 @@
 
 I combine innovation with best practice to diminish bugs and deliver results
 
-Multilingual Software Test specialist (English, Russian, Hebrew... plus SQL, and NoSQL ... and some more)
 A gamer at heart and thumbs, I solve problems swiftly and collaboratively. 
 To me, a good day is one where I sit back and say, “I helped this thing move forward.”
 
