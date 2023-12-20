@@ -46,6 +46,6 @@ I enjoy being part of an evolving team and product, Let’s connect and exchange
 
 <h2> 👨‍💻 Skills:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wordpress,aws,bash,c,docker,figma,git,github,grafana,idea,java,jenkins,kubernetes,linux,mongodb,mysql,postman,powershell,py,redis,selenium,swift,vscode,visualstudio&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,c,java,swift,bash,powershell,html,css,wordpress,figma,grafana,git,github,linux,docker,kubernetes,jenkins,postman,redis,selenium,idea,vscode,visualstudio,mysql,mongodb,&perline=7)](https://skillicons.dev)
                     
 
